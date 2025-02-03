@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "Ubuntu",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus7.actions.githubusercontent.com/PMysLp6R6hXeSRbsgVEHSAkXqurhIULoUs5NscMpciA9KIeUzM/",
+  "gitHubUrl": "https://github.com/cu-ecen-aeld/assignment-4-ayumunwap",
+  "workFolder": "_work"
+}
